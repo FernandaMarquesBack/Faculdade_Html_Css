@@ -82,7 +82,7 @@ Embora a atividade tivesse como foco principal **HTML e CSS**, foram adicionados
 ## 📁 Estrutura do projeto
 
 ```text
-/
+
 ├── index.html
 ├── style.css
 ├── script.js
