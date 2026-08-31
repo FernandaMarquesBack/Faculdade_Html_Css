@@ -86,6 +86,7 @@ Embora a atividade tivesse como foco principal **HTML e CSS**, foram adicionados
 ├── index.html
 ├── style.css
 ├── script.js
+└── imagens/
     ├── Hd.png
     ├── Security.png
     ├── Alvo.png
